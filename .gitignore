@@ -11,9 +11,6 @@ build.gradle.kts.swp
 gradle-app.setting
 !gradle-wrapper.jar
 
-# Local environment configuration
-local.properties
-
 # IDE specific (IntelliJ/Android Studio/VS Code)
 .idea/
 *.iml
