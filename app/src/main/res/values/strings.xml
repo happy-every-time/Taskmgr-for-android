@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Taskmgr</string>
+    <string name="system_status">Linking sever ... ...</string>
+</resources>
